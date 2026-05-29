@@ -68,7 +68,6 @@ vcpkg_installed/
 Testing/
 .cache/
 
-
 # Code::Blocks configuration files
 *.layout
 *.depend
